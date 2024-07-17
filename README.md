@@ -1,2 +1,2 @@
-# PRODIGY_WD01
+# PRODIGY_WD_01
 Code for basic Navigation Bar 
